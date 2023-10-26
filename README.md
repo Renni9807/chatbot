@@ -5,3 +5,5 @@
 
 4. user log-in
 5. message transfer -> in order to notify the manager in charge of the system. (emergency, issue happened or etc)
+
+** git clone https://github.com/legobitna/chatapp-client.git
