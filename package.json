@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "1. backend setting : database setting, web socket setting    What is web socket? -> it enables real-time bidirectional communication. It allows for a continuous connection between a client and a server, facilitating bidirectional data transfer. 2. Front-end setting : web socket setting 3. backend-frontend connection test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongo": "^0.1.0",
+    "mongoose": "^7.6.3",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
